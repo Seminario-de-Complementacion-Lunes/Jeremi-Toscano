@@ -1,4 +1,4 @@
-Projecto CRUD REACT con EXPRESS
+## Projecto CRUD REACT con EXPRESS
 
 ## Empezar en el projecto con 
   ```bash
@@ -18,4 +18,4 @@ en el backend para empezar el servidor , ASEGURARSE QUE EL SERVIDOR USE UN PUERT
 en el frontend para empezar el servidor de donde se enviara los datos al backend .
 
 
-:D        que la pases bien 
+## :D        que la pases bien 
