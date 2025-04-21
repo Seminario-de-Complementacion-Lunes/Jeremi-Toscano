@@ -17,5 +17,13 @@ en el backend para empezar el servidor , ASEGURARSE QUE EL SERVIDOR USE UN PUERT
   ```
 en el frontend para empezar el servidor de donde se enviara los datos al backend .
 
-
+  ```bash
+  CREATE TABLE usuarios (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  nombre VARCHAR(100) NOT NULL,
+  dni VARCHAR(8) NOT NULL UNIQUE,
+  foto MEDIUMBLOB NOT NULL
+);
+  ```
+ en la bd de datos generar el siguiente script para empezar a recibir los datos
 ## :D        que la pases bien 
